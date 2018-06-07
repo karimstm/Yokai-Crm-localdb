@@ -1,0 +1,160 @@
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.exe.config
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.exe
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Autofac.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\TelerikCommon.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Autofac.xml
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.xml
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csprojResolveAssemblyReference.cache
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.Properties.Resources.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.GenerateResource.Cache
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.exe.licenses
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.CoreCompileInputs.cache
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.exe
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.MainForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ProspectForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.AccountForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ContactForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SearchForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ProductForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.VendorForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.PurchaseOrderForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SalesOrderForm.resources
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.QuoteForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.exe.config
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.exe
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Autofac.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.Reporting.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\TelerikCommon.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Report.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Report.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Report.dll.config
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Autofac.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.Reporting.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.Reporting.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csprojResolveAssemblyReference.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.Properties.Resources.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ReportingForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.AboutForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.Account.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.CampaignForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.CombinedForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ContactForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.DashboardForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.FluxDisplay.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.FluxForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.InvoiceForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.LoginForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.MainForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.OpportunityForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.PrivilegesForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ProductForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ProspectForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.PurchaseOrderForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.QuoteForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SalesOrderForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SearchForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SettingsForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.UsersForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.VendorForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.YokaiCrmRegisterForm.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.GenerateResource.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.exe.licenses
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.CopyComplete
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.exe
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.exe.config
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.exe
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Autofac.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.Reporting.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\TelerikCommon.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Report.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Report.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.Report.dll.config
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Autofac.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.Reporting.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.Reporting.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.Properties.Resources.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ReportingForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.AboutForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.Account.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.CampaignForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.CombinedForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ContactForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.DashboardForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.FluxDisplay.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.FluxForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.InvoiceForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.LoginForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.MainForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.OpportunityForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.PrivilegesForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ProductForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.ProspectForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.PurchaseOrderForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.QuoteForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SalesOrderForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SearchForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.SettingsForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.UsersForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.VendorForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.YokaiCrmRegisterForm.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.GenerateResource.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.exe.licenses
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csproj.CopyComplete
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.exe
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm\obj\x86\Debug\Yokai.Crm.csprojAssemblyReference.cache

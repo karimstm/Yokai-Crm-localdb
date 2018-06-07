@@ -1,0 +1,22 @@
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.DataAccess\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.DataAccess\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.Resource1.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csproj.GenerateResource.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.Resource1.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csproj.GenerateResource.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.DataAccess\obj\Debug\Yokai.Crm.DataAccess.csprojAssemblyReference.cache

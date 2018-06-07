@@ -1,0 +1,46 @@
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Report.dll.config
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Report.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Report.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Telerik.Reporting.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Telerik.Reporting.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\bin\Debug\Telerik.Reporting.xml
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csprojResolveAssemblyReference.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ProductReportDetails.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.Properties.Resources.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ReportInvoice.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ReportInvoiceTowDate.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ReportPurchaseOrder.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.SalesOrderReport.resources
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csproj.GenerateResource.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.dll.licenses
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csproj.CopyComplete
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Report.dll.config
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Report.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Report.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Telerik.Reporting.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Telerik.Reporting.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\bin\Debug\Telerik.Reporting.xml
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ProductReportDetails.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.Properties.Resources.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ReportInvoice.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ReportInvoiceTowDate.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.ReportPurchaseOrder.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.SalesOrderReport.resources
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csproj.GenerateResource.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.dll.licenses
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csproj.CopyComplete
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Report\obj\Debug\Yokai.Crm.Report.csprojAssemblyReference.cache

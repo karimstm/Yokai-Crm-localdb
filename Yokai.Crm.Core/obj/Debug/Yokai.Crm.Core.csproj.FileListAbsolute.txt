@@ -1,0 +1,26 @@
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csprojResolveAssemblyReference.cache
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csproj.CoreCompileInputs.cache
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.dll
+C:\Users\sora-senpai\source\repos\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csprojResolveAssemblyReference.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csproj.CopyComplete
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Visual Studio 2017\Projects\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.DataAccess.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\bin\Debug\Yokai.Crm.DataAccess.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csproj.CoreCompileInputs.cache
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csproj.CopyComplete
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.dll
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.pdb
+C:\Users\sorasenpai\Documents\Yokai Crm\Yokai.Crm.Core\obj\Debug\Yokai.Crm.Core.csprojAssemblyReference.cache
